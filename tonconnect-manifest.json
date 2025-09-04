@@ -1,0 +1,10 @@
+
+  "name": "TON Contract Verifier",
+  "url": "https://verifier.ton.org",
+  "iconUrl": "https://verifier.ton.org/icon.png",
+  "termsUrl": "https://verifier.ton.org/terms",
+  "privacyPolicyUrl": "https://verifier.ton.org/privacy",
+  "manifestUrl": "https://verifier.ton.org/tonconnect-manifest.json",
+  "bridgeUrl": "https://bridge.tonconnect.org",
+  "version": "2.0"
+}
