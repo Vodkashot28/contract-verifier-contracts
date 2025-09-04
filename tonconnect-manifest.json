@@ -1,6 +1,7 @@
 {
   "name": "TON Contract Verifier",
   "url": "https://verifier.ton.org",
+  "aboutUrl": "https://verifier.ton.org/about",
   "iconUrl": "https://verifier.ton.org/icon.png",
   "termsUrl": "https://verifier.ton.org/terms",
   "privacyPolicyUrl": "https://verifier.ton.org/privacy",
